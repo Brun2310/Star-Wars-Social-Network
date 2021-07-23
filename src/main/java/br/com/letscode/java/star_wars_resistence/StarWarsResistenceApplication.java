@@ -10,4 +10,12 @@ public class StarWarsResistenceApplication {
         SpringApplication.run(StarWarsResistenceApplication.class, args);
     }
 
+
+    //TODO método de sobrescrever a localização atual
+    //TODO método adicionar rebeldes
+    //TODO reportar o rebelde como um traidor
+
+
+    //TODO negociar itens e pontos dos itens (como atribuir)
+
 }
